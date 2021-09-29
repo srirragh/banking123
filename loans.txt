@@ -1,2 +1,8 @@
 the bank 
 is giving loans
+
+interest rates:
+1%
+2%
+3%
+
