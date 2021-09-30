@@ -2,3 +2,6 @@ car loans are three types
 
 basic car loan
 
+medium car loan
+
+
