@@ -5,4 +5,8 @@ interest rates:
 1%
 2%
 3%
-
+next level interest
+10%
+11%
+12%
+13%
